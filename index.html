@@ -13,6 +13,10 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
+    
+    {% if post.feature-img %}
+    <img class="feature-image" src={{ post.feature-img }} alt="Feature Image"/>
+    {% endif %}
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
