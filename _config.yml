@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Jayser Mendez
 tagline:             'Full Stack Developer'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://jayserdny.github.io
-baseurl:             ''
+url:                 'https://jayserdny.github.io'
+baseurl:             'https://jayserdny.github.io'
 paginate:            5
 
 # About/contact
