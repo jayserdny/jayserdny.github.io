@@ -8,6 +8,10 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
   <hr />
+  
+  {% include sky_ad.html %}
+  <hr />
+  
   <div class="disqus">
     {% include disqus.html %}
   </div>
