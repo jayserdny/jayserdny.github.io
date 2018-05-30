@@ -3,6 +3,7 @@ layout: post
 title: Fetching an API with Node-RED
 categories: [Node-RED, NodeJs]
 feature-img: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1516346932/qx7cofxe02eucqrh8zdo.png"
+image: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1516346932/qx7cofxe02eucqrh8zdo.png"
 ---
 
 #### What Will I Learn?
