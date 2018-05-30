@@ -19,9 +19,10 @@ title: Home
       {{ post.date | date_to_string }} 
       
       - 
+      Categories: 
       {% for category in post.categories %}
       
-      {{ category | capitalize}}, 
+      {{ category | capitalize}} 
       {% endfor %}
     
     </span>
