@@ -89,7 +89,9 @@ And if everything is correct, you should get the following screen once again
 # Meteor Js Set up 
 Now that our Ionic project is ready for the Meteor Js power, we can start by installing Meteor Js if it is not installed in your machine. To do so, you just need to run the following command: 
 
-> curl https://install.meteor.com/ | sh 
+```
+curl https://install.meteor.com/ | sh 
+```
 
 Once it is done, navigate to "src" folder of the app into the command line: 
 
