@@ -3,6 +3,7 @@ layout: post
 title: Ionic/Angular - Recursively Rendering A Tree Structure
 categories: [Ionic, Angular]
 feature-img: "https://steemitimages.com/DQmYgcB6ACyfnTEE17kcxVrEThDdSbb6jTCbNb2Wdy8xLPi/Screen%20Shot%202018-05-16%20at%2011.01.07%20PM.png"
+image: "https://steemitimages.com/DQmYgcB6ACyfnTEE17kcxVrEThDdSbb6jTCbNb2Wdy8xLPi/Screen%20Shot%202018-05-16%20at%2011.01.07%20PM.png"
 ---
 
 #### What Will I Learn?
