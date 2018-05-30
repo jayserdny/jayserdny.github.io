@@ -8,7 +8,7 @@ title:               Jayser Mendez
 tagline:             'Full Stack Developer'
 description:         'A New York City based hacker with a background in Computer Science and passion to build web applications.'
 url:                 'https://jayserdny.github.io'
-baseurl:             'https://jayserdny.github.io'
+baseurl:             ''
 paginate:            20
 
 # About/contact
