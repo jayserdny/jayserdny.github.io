@@ -3,6 +3,7 @@ layout: post
 title: Ionic 3 Meteor - Implementing Authentication Flow
 categories: [Ionic, Meteor]
 feature-img: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1515397843/oosewfgmvaqajt0c1yu9.png"
+image: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1515397843/oosewfgmvaqajt0c1yu9.png"
 ---
 
 Following my last tutorial regarding [making a server method and calling it in ionic](https://jayserdny.github.io/ionic/meteor/ionic-3-meteor-creating-server-methods/), we will continue from this bootstrap and implement an auth system. The auth system will have only 2 functions: Login and Register.
