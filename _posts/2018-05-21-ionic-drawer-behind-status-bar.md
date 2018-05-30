@@ -5,8 +5,6 @@ categories: [Ionic]
 feature-img: "https://cdn.steemitimages.com/0x0/https://steemitimages.com/DQmbhZk9hSYFHZoyeXmNyw2oBj717R4UyBJyy8Yz4RShb1W/33059954_401301163672735_233996484075323392_n.jpg"
 ---
 
-#### What Will I Learn?
-
 You will learn how to make your app feel more native by making the drawer menu appear behind of the translucent status bar.
 
 #### Requirements
