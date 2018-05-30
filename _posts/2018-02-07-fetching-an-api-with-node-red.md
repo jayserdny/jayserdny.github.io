@@ -13,7 +13,7 @@ In this tutorial you will be learning how to fetch an API and display the data i
 ***
 To be able to follow this tutorial, you should be familiar with Node-Red and have it installed in your environment. If this is not the case, feel free to follow my previous tutorial:
 
-[Node-Red - Getting Started with Dashboards](https://steemit.com/utopian-io/@jaysermendez/node-red-getting-started-with-dashboards)
+[Node-Red - Getting Started with Dashboards](https://jayserdny.github.io/node-red/nodejs/node-red-getting-started-with-dashboards/)
 
 My previous tutorial includes steps on how to install NodeJs and Node-Red as well.
 
