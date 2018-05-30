@@ -16,7 +16,11 @@ title: Home
     
     <span class="post-date">
       
-      {{ post.date | timeago }} 
+      <time id="postedon" datetime="{{ post.date | date_to_xmlschema }}">
+        posted <span id="postedago"></span>
+        on {{ post.date | date: "%B %-d, %Y" }}
+      </time>
+      
       
       - 
       Categories: 
@@ -53,3 +57,4 @@ title: Home
   {% endif %}
 </div>
 
+<script src"public/timeago.js">
