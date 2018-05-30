@@ -3,6 +3,7 @@ layout: post
 title: Ionic 3 - Importing third party JavaScript libraries using custom script
 categories: [Ionic]
 feature-img: "https://cdn.steemitimages.com/DQmRWeK27PNoFZDT7N2kG9Hp9VK8pN1Nur1eMPqKAfXpDeR/Screen%20Shot%202018-05-28%20at%2012.09.53%20AM.png"
+image: "https://cdn.steemitimages.com/DQmRWeK27PNoFZDT7N2kG9Hp9VK8pN1Nur1eMPqKAfXpDeR/Screen%20Shot%202018-05-28%20at%2012.09.53%20AM.png"
 ---
 
 In this tutorial you will learn how to import JS and CSS files from 3rd party libraries using a custom script to always have the latest version.
