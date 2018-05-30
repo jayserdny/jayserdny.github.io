@@ -3,6 +3,7 @@ layout: post
 title: Node-RED - Getting Started With Dashboards
 categories: [Node-Red, NodeJs]
 feature-img: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1516265484/lve85yug4agjtq0hzuzd.png"
+image: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1516265484/lve85yug4agjtq0hzuzd.png"
 ---
 
 #### What Will I Learn?
