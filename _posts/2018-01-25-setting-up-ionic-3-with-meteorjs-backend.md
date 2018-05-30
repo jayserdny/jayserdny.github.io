@@ -2,6 +2,7 @@
 layout: post
 title: Setting up Ionic 3 with MeteorJs Backend
 categories: [Ionic, Meteor]
+feature-img: "https://res.cloudinary.com/hpiynhbhq/image/upload/v1514678494/wu2a18jfyhr3t3jz7dxm.png"
 ---
 
 Nowadays, Ionic is one of the easiest way to get done a powerful cross-platform apps. However, there are several users finding information on how to implement a backend into an Ionic app. Most of the users decides to use a serverless solution (such as Firebase) to their apps. Nevertheless, this solution is not efficient to all users (like me). 
