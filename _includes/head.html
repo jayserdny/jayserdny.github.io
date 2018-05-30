@@ -14,7 +14,7 @@
     {% endif %}
   </title>
   
-  <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+  <meta itemprop="description" name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
   
   {% seo %}
 
