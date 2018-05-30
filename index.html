@@ -43,7 +43,7 @@ title: Home
     {% if post.feature-img %}
     <div class="featured-img">
       <a href="{{ site.url }}{{ post.url }}">
-        <img class="feature-image object-fit-cover" src={{ post.feature-img }} alt="Featured Image">
+        <img class="feature-image object-fit-cover" src={{ post.feature-img }} alt="{{ post.title }}">
       </a>
     </div>
     {% endif %}
