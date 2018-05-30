@@ -7,7 +7,7 @@ feature-img: "https://cdn.steemitimages.com/0x0/https://steemitimages.com/DQmbhZ
 
 #### What Will I Learn?
 
-- You will learn how to make your app feel more native by making the drawer menu appear behind of the translucent status bar.
+You will learn how to make your app feel more native by making the drawer menu appear behind of the translucent status bar.
 
 #### Requirements
 In order to follow this tutorial, you need to have installed the following:
