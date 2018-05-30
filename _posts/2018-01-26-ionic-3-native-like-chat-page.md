@@ -3,6 +3,7 @@ layout: post
 title: Ionic 3 - Native like chat page
 categories: [Ionic]
 feature-img: "https://res.cloudinary.com/hpiynhbhq/image/upload/v1514714043/ooq7srrzido9wzx2pl8z.png"
+image: "https://res.cloudinary.com/hpiynhbhq/image/upload/v1514714043/ooq7srrzido9wzx2pl8z.png"
 ---
 
 Are you tired of dealing with this in your Ionic app?
