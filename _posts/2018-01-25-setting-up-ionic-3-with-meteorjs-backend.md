@@ -174,7 +174,9 @@ Now that our project is ready to connect to Meteor backend, we need to install [
 
 And in order to use this dependence, we need to also install the "tmp" module to generate temp files: 
 
-> npm install --save-dev tmp ![Screen Shot 2017-12-30 at 8.11.50 PM.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1514682723/kekpqhfx0tywe0rkdbvl.png) 
+> npm install --save-dev tmp 
+
+![Screen Shot 2017-12-30 at 8.11.50 PM.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1514682723/kekpqhfx0tywe0rkdbvl.png) 
 
 The next thing is to include a custom script for generating our client bundle. To do so, we need to open the package.json into our project's root folder and add the following into the scripts section: 
 
