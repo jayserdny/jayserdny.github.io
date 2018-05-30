@@ -5,8 +5,6 @@ categories: [Ionic, Meteor]
 feature-img: "https://cdn.steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1515397843/oosewfgmvaqajt0c1yu9.png"
 ---
 
-![Screen Shot 2018-01-08 at 3.45.26 AM.png](https://res.cloudinary.com/hpiynhbhq/image/upload/v1515401475/nd14xrpueqefhg6exzsx.png)
-
 Following my last tutorial regarding [making a server method and calling it in ionic](https://jayserdny.github.io/ionic/meteor/ionic-3-meteor-creating-server-methods/), we will continue from this bootstrap and implement an auth system. The auth system will have only 2 functions: Login and Register.
 
 ---
