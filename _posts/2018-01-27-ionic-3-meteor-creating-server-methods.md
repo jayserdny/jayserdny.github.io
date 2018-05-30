@@ -2,7 +2,7 @@
 layout: post
 title: Ionic 3 Meteor - Creating Server Methods
 categories: [Ionic, Meteor]
-feature-img: "https://res.cloudinary.com/hpiynhbhq/image/upload/v1514860648/alk4q4w3wezv9pxtubiv.png"
+feature-img: "https://res.cloudinary.com/hpiynhbhq/image/upload/v1514859171/rlrfdewgnoicmhj4watu.png"
 ---
 
 Following my last tutorial on [Setting up Ionic 3 with MeteorJs Backend](https://jayserdny.github.io/ionic/meteor/setting-up-ionic-3-with-meteorjs-backend/), we will write our first server method which will be called into our Ionic 3 client. If you do not want to follow the last tutorial, feel free to use this quick-starter [Ionic Meteor Starter](https://github.com/jayserdny/Ionic-meteor-starter)
